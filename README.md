@@ -10,7 +10,6 @@
 - Engenharia de Software (Pós-Graduação)
 - Java, Banco de Dados e desenvolvimento backend
 - Inglês para expandir meus projetos para o mundo todo 🌍
-- Teoria Musical e produção no FL Studio (criatividade também é código!)
 
 ---
 
